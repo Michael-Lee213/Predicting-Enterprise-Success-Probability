@@ -15,6 +15,7 @@
                    연매출(억원), SNS 팔로워 수(백만명), 기업가치(백억원)
 
  <br>
+ <br>
 
 - 제출 로그 :
   ![image](https://github.com/user-attachments/assets/a30fed14-4882-46f9-a3c1-2e99edd862fa)
