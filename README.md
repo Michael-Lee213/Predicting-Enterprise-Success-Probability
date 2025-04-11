@@ -14,6 +14,7 @@
                    ID : 샘플별 고유 ID, 설립연도, 국가, 분야, 투자단계, 직원 수, 인수여부, 상장여부, 고객수(백만명), 총 투자금(억원)
                    연매출(억원), SNS 팔로워 수(백만명), 기업가치(백억원)
 
+ <br>
 
 - 제출 로그 :
   ![image](https://github.com/user-attachments/assets/a30fed14-4882-46f9-a3c1-2e99edd862fa)
