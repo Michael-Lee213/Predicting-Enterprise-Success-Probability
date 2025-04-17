@@ -19,10 +19,9 @@
 - 제출 로그 :
   ![image](https://github.com/user-attachments/assets/341e0a6b-4407-4a6c-b757-604846e5021b)
 
-
 <br>
 
 - 결과 :
-![image](https://github.com/user-attachments/assets/8f72eec3-3c5c-4ad4-9c50-f61e01192afc)
+  ![image](https://github.com/user-attachments/assets/8f72eec3-3c5c-4ad4-9c50-f61e01192afc)
 
 
