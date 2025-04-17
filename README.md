@@ -21,7 +21,7 @@
 
 <br>
 
-- 결과 :
+- 결과 :<br>
   ![image](https://github.com/user-attachments/assets/8f72eec3-3c5c-4ad4-9c50-f61e01192afc)
 
 
