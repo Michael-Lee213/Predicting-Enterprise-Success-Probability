@@ -17,9 +17,11 @@
  <br>
 
 - 제출 로그 :
-  ![image](https://github.com/user-attachments/assets/a30fed14-4882-46f9-a3c1-2e99edd862fa)
+  ![image](https://github.com/user-attachments/assets/341e0a6b-4407-4a6c-b757-604846e5021b)
+
 
 <br>
 
 - 결과 :
-  ![image](https://github.com/user-attachments/assets/25c6e03e-0665-41e3-8409-954bdc6afac7)
+  ![image](https://github.com/user-attachments/assets/fd74b781-085b-47fe-929c-fab813d9554c)
+
