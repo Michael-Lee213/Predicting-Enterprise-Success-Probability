@@ -21,8 +21,12 @@
 
 <br>
 
-- 결과 :<br>
-  ![image](https://github.com/user-attachments/assets/8f72eec3-3c5c-4ad4-9c50-f61e01192afc)
+최종 결과 : 
+
+![image](https://github.com/user-attachments/assets/c1a88455-158b-4406-9874-184feab5cd6d)
+
+
+※ 총 920명 참여, 104등 달성, 상위 11% 달성
 
 
   <br>
