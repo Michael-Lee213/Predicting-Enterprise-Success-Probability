@@ -25,8 +25,6 @@
   ![image](https://github.com/user-attachments/assets/8f72eec3-3c5c-4ad4-9c50-f61e01192afc)
 
 
-**■** 깨달은 점
-
   <br>
 
 -  데이터에 대한 이해도가 결과에 있어 큰 영향을 준다는 것을 깨달았고, 현실적 기준을 담은 파생 변수들이 실제 허위 매물을
